@@ -1,0 +1,27 @@
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.csprojAssemblyReference.cache
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.AssemblyInfo.cs
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.deps.json
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.dll
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.pdb
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.dll
+C:\Users\david\source\repos\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.pdb
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.deps.json
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.dll
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.pdb
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.csprojAssemblyReference.cache
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.AssemblyInfo.cs
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.dll
+C:\Users\david\Desktop\InCaseOfFire\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.pdb
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.deps.json
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.dll
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\bin\Debug\netcoreapp3.1\WareHouseLibrary.pdb
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.csprojAssemblyReference.cache
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.AssemblyInfoInputs.cache
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.AssemblyInfo.cs
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.csproj.CoreCompileInputs.cache
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.dll
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\WareHouseLibrary\WareHouseLibrary\obj\Debug\netcoreapp3.1\WareHouseLibrary.pdb

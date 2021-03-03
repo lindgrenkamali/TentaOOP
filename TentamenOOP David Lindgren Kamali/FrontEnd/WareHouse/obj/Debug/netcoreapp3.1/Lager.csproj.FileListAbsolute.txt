@@ -1,0 +1,16 @@
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\Lager.exe
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\Lager.deps.json
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\Lager.runtimeconfig.json
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\Lager.runtimeconfig.dev.json
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\Lager.dll
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\Lager.pdb
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\WareHouseLibrary.dll
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\bin\Debug\netcoreapp3.1\WareHouseLibrary.pdb
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.csprojAssemblyReference.cache
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.AssemblyInfoInputs.cache
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.AssemblyInfo.cs
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.csproj.CoreCompileInputs.cache
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.csproj.CopyComplete
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.dll
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.pdb
+E:\Dokument\TentamenOOP David Lindgren Kamali\TentamenOOP David Lindgren Kamali\FrontEnd\WareHouse\obj\Debug\netcoreapp3.1\Lager.genruntimeconfig.cache

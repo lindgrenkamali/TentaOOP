@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WareHouse/1.0.0": {
+        "dependencies": {
+          "WareHouseLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WareHouse.dll": {}
+        }
+      },
+      "WareHouseLibrary/1.0.0": {
+        "runtime": {
+          "WareHouseLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WareHouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WareHouseLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
